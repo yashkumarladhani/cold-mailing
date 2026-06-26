@@ -1,0 +1,8 @@
+{
+  "name": "Cold Mail Automator",
+  "description": "Automated personalized cold email campaigns with Mailgun integration, 10s wait delays, Google Sheets data import, and AI spam risk assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
